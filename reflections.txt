@@ -1,0 +1,21 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+KT
+20160917
+Project: Mockup to Article - Udacity
+Reflection
+
+In regards to skills, I don't think I have acquired any new ones. Prior to signing up to Udacity's Nanodegree for Web Development, I had already taken Codeacademy's courses on HTML, CSS, and Javascript. Thus, I am familiar with how to code a website, add dynamite elements, and even include simple games using canvas. So far, most everything has been review except for the use of the strikethrough, subscript, superscript, and horizontal ruler tags. Thus, even though I haven't picked up new skills, I am getting exposed to new HTML elements. I'm sure there will always be more elements to discover and use.
+
+So far, everything has been simple and easy with no new difficulties. The only minor challenge I encountered was finding the different HTML elements required to format the article properly to look like the mockup. Using the search bar on MDN's developer tools webpage has provided quick answers, however. 
+
+I am excited to learn good web design that is clean and efficient. And I am especially looking forward to acquiring skillsets such as creating secure logins and such.
+
